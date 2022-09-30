@@ -1,0 +1,11 @@
+﻿  pch.cpp
+  Circle.cpp
+  Dll1.cpp
+  dllmain.cpp
+  Parallelogram.cpp
+  Rectangle.cpp
+  Trapezoid.cpp
+  Triangle.cpp
+  Создание кода...
+     Создается библиотека C:\Users\Пользователь\source\repos\Dll1\x64\Debug\DLL1.lib и объект C:\Users\Пользователь\source\repos\Dll1\x64\Debug\DLL1.exp
+  Dll1.vcxproj -> C:\Users\Пользователь\source\repos\Dll1\x64\Debug\DLL1.dll
